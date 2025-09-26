@@ -1,0 +1,9 @@
+flask
+pdfplumber
+transformers
+spacy
+numpy
+pandas
+gunicorn
+tensorflow
+torch
